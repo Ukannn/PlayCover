@@ -10,8 +10,7 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
+
 <div align="center">
   <a href="https://github.com/PlayCover/PlayCover">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
